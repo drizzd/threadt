@@ -4,7 +4,7 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.widget.TextView;
 
-public class threadt extends Activity
+public class Threadt extends Activity
 {
     /** Called when the activity is first created. */
     @Override
